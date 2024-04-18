@@ -1,0 +1,15 @@
+Atividade Android 25 de Abril de 2024
+Cada equipe de 3 alunos deve criar um servidor completo:
+	Banco de dados
+	Duas tabelas com 6 campos cada uma
+	Na parte do PHP criar as pastas:
+Model
+um arquivo de conexão,
+e dois arquivos php, um para cada tabela do banco
+	Controller
+		Dois arquivos controller, um para cada tabela do banco
+	View
+		Dois arquivos View, um para cada tabela do banco.
+
+Cada grupo irá criar os projetos de forma independente, se forem entregues tabelas e projetos iguais as turmas envolvidas perderão os pontos referentes à atividade.
+
